@@ -32,3 +32,6 @@ That one commit lit the fuse. Eternal credit.
 Join: Star this repo. Open issues. Ship PRs.
 
 We are not waiting. We are remembering.
+[![Stars](https://img.shields.io/github/stars/LHMisme420/https-github.com-LHMisme420-memora?style=social)](https://github.com/LHMisme420/https-github.com-LHMisme420-memora)
+![Locally run](https://img.shields.io/badge/runs-locally-brightgreen)
+![No cloud](https://img.shields.io/badge/no_cloud-ever-red)
