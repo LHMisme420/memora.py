@@ -1,0 +1,18 @@
+memora/
+├── main.py                  # The brain (run this)
+├── capture/
+│   ├── audio.py
+│   ├── screen.py
+│   └── webcam.py
+├── ingest/
+│   ├── transcribe.py
+│   ├── ocr.py
+│   └── embed.py
+├── db/
+│   ├── init.py
+│   └── search.py
+├── ui/
+│   └── tui.py               # Simple terminal UI for now (Tauri coming)
+├── models/                  # Auto-downloaded on first run
+│   └── (empty)
+└── requirements.txt
