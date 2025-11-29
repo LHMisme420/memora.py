@@ -1,0 +1,12 @@
+whisper==1.1.10
+soundcard==0.4.3
+Pillow==10.4.0
+opencv-python==4.10.0
+mss==9.0.1
+pytesseract==0.3.13
+nomic==3.1.0
+lancedb==0.9.0
+sqlite-vec==0.1.4
+numpy==1.26.4
+rich==13.8.1
+cryptography==43.0.1
